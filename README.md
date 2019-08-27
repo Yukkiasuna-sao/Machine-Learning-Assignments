@@ -1,2 +1,2 @@
 # Machine-Learning-Assignments
-Machine learning assignments mainly implemented by Scikit-Learn package in Python.
+Machine learning assignments implemented by Pandas, Numpy, Scikit-Learn and Weka package in Python.
